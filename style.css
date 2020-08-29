@@ -1,0 +1,29 @@
+body{
+    background-color: lightyellow;
+    text-align:center;
+    margin :100px auto;
+}
+
+label{
+    font-size:18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#str{
+    margin: 30px 10px;
+    font-size:16px;
+}
+#btn{
+    margin:10px auto;
+    padding: 8px 10px;
+    letter-spacing: 1px;;
+    border:none;
+    box-shadow: 1px 8px 8px 1px rgba(100,100,100,0.4);
+    
+    color:white;
+    background-color:lightseagreen;
+}
+#result{
+   font-size:18px;
+   color:crimson;
+   font-family: cursive;
+}
